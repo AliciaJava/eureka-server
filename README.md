@@ -97,6 +97,23 @@ mvn test
 * Integrar Eureka con clientes Spring Boot
 
 ---
+## Imágenes
+
+RUN US
+
+<img width="1365" height="724" alt="RUN AS EUREKA SERVER" src="https://github.com/user-attachments/assets/197e5719-cb22-4326-b23a-93660f592e36" />
+
+LOCALHOST
+
+<img width="1365" height="653" alt="LOCALHOST 8761png" src="https://github.com/user-attachments/assets/e0a83a92-d032-4e99-a9fe-028076fce469" />
+
+INFORMACIÓN INSTANCIA
+
+<img width="1346" height="633" alt="INF INSTANCIA" src="https://github.com/user-attachments/assets/9518f2bd-e652-4393-88ba-66714336fabb" />
+
+INFORMACIÓN GENERAL
+
+<img width="1344" height="541" alt="INF GENERAL" src="https://github.com/user-attachments/assets/b322f48a-5793-407f-9734-dead92b36f38" />
 
 ## 📄 Licencia
 
